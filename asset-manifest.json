@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/cart-simulator/static/css/main.d1b05096.chunk.css",
+    "main.js": "/cart-simulator/static/js/main.2f0c74de.chunk.js",
+    "main.js.map": "/cart-simulator/static/js/main.2f0c74de.chunk.js.map",
+    "runtime-main.js": "/cart-simulator/static/js/runtime-main.7b15f506.js",
+    "runtime-main.js.map": "/cart-simulator/static/js/runtime-main.7b15f506.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/cart-simulator/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.2ad4c1d9.chunk.js": "/cart-simulator/static/js/2.2ad4c1d9.chunk.js",
+    "static/js/2.2ad4c1d9.chunk.js.map": "/cart-simulator/static/js/2.2ad4c1d9.chunk.js.map",
+    "index.html": "/cart-simulator/index.html",
+    "precache-manifest.1a4622a8c0afbd95a9d1028fd0770628.js": "/cart-simulator/precache-manifest.1a4622a8c0afbd95a9d1028fd0770628.js",
+    "service-worker.js": "/cart-simulator/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/cart-simulator/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.d1b05096.chunk.css.map": "/cart-simulator/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.2ad4c1d9.chunk.js.LICENSE": "/cart-simulator/static/js/2.2ad4c1d9.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b15f506.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.2ad4c1d9.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.2f0c74de.chunk.js"
+  ]
+}
